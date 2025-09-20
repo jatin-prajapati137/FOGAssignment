@@ -36,7 +36,7 @@ function App() {
 
   return (
     <div style={{ textAlign: "center", padding: 20 }}>
-      <h2>Zig-Zag DNA Pattern Grid</h2>
+      <h2>Assignment</h2>
 
       <div style={{ marginBottom: 20 }}>
         <label>
