@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/zigzag-grid/static/css/main.bc3e985f.css",
-    "main.js": "/zigzag-grid/static/js/main.58c9792c.js",
-    "static/js/453.f4d6b923.chunk.js": "/zigzag-grid/static/js/453.f4d6b923.chunk.js",
-    "index.html": "/zigzag-grid/index.html",
-    "main.bc3e985f.css.map": "/zigzag-grid/static/css/main.bc3e985f.css.map",
-    "main.58c9792c.js.map": "/zigzag-grid/static/js/main.58c9792c.js.map",
-    "453.f4d6b923.chunk.js.map": "/zigzag-grid/static/js/453.f4d6b923.chunk.js.map"
+    "main.css": "/FOGAssignment/static/css/main.bc3e985f.css",
+    "main.js": "/FOGAssignment/static/js/main.e0f5775d.js",
+    "static/js/453.f4d6b923.chunk.js": "/FOGAssignment/static/js/453.f4d6b923.chunk.js",
+    "index.html": "/FOGAssignment/index.html",
+    "main.bc3e985f.css.map": "/FOGAssignment/static/css/main.bc3e985f.css.map",
+    "main.e0f5775d.js.map": "/FOGAssignment/static/js/main.e0f5775d.js.map",
+    "453.f4d6b923.chunk.js.map": "/FOGAssignment/static/js/453.f4d6b923.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bc3e985f.css",
-    "static/js/main.58c9792c.js"
+    "static/js/main.e0f5775d.js"
   ]
 }
